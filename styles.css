@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #101f5f;
 }
 
 body {
@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/images-removebg-preview\ \(cópia\ 1\).png') top right no-repeat,
+        url('img/images-removebg-preview\ \(cópia\ 1\).png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/images-removebg-preview\ \(cópia\ 1\).png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
